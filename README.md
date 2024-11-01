@@ -1,8 +1,8 @@
 <h1>  Hello hello! I'm Camila Lopes <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQ3a2tvcWJoeDVjdnBqNDg5ejJrNnBoZjVkdXA5YTFwbW44Z294ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kH21cnlNQ9NeLTpEih/giphy.gif" width="60"> </h1>
 
 <p>
-  <em>Computer Scientist at <a href="https://www.pucminas.br">Pontificia Universidade Católica de Minas Gerais</a><img src="https://media.giphy.com/media/qCO12lyzGeOBWaEfRq/giphy.gif?cid=790b7611a1lh98agn8vmlmyjgaxrrs4o8cgsirnyr7cogirw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40">
-  </br>Developer at <a href="https://enx.net.br/">Enx Services</a><img src="https://media.giphy.com/media/goV8jfAXjCUqBTrRjv/giphy.gif?cid=790b7611n4eepbibne9dlcopbcpdd4s32rtefbeit61f6p5g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"> 
+  <em>Computer Scientist at <a href="https://www.pucminas.br">Pontifícia Universidade Católica de Minas Gerais (PUC-MG) </a><img src="https://media.giphy.com/media/qCO12lyzGeOBWaEfRq/giphy.gif?cid=790b7611a1lh98agn8vmlmyjgaxrrs4o8cgsirnyr7cogirw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40">
+  </br>Developer at <a href="https://enx.net.br/">Enx Services </a><img src="https://media.giphy.com/media/3R8YiR6xPg6MMVDt0h/giphy.gif?cid=790b7611glu9rgf0xv45j3t4me3qk6qn6mjep4w5498d6pt3&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"> 
   </em>
 </p>
 
