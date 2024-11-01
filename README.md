@@ -2,7 +2,7 @@
 
 <p>
   <em>Computer Scientist at <a href="https://www.pucminas.br">Pontificia Universidade Católica de Minas Gerais</a><img src="https://media.giphy.com/media/qCO12lyzGeOBWaEfRq/giphy.gif?cid=790b7611a1lh98agn8vmlmyjgaxrrs4o8cgsirnyr7cogirw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40">
-  </br>Developer at <a href="https://enx.net.br/">Enx Services</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  </br>Developer at <a href="https://enx.net.br/">Enx Services</a><img src="https://media.giphy.com/media/goV8jfAXjCUqBTrRjv/giphy.gif?cid=790b7611n4eepbibne9dlcopbcpdd4s32rtefbeit61f6p5g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"> 
   </em>
 </p>
 
