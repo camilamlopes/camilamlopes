@@ -14,6 +14,7 @@
 
 <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V4M2t0ODRiMjlqMmxsdHQzOXdjcWQ1NG0xOHJqZGRraGlheWI2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HeSfycr1Z0tmuHDGho/giphy.gif" width="50"> How to reach me: </h2>
 
+<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V4M2t0ODRiMjlqMmxsdHQzOXdjcWQ1NG0xOHJqZGRraGlheWI2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HeSfycr1Z0tmuHDGho/giphy.gif" width="50"> My favorite tools: </h2>
 
 <h2> <img src="https://media.giphy.com/media/9f8mk4P3X2Nvch1z2o/giphy.gif?cid=790b7611ec8dd1p1mvznz2dot07kqrggczovxbbuuxacymh6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> GitHub Stats </h2>
 
