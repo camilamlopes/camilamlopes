@@ -6,9 +6,6 @@
   I'm a 
   <em>Computer Science undergraduate student at <a href="https://www.pucminas.br">Pontifícia Universidade Católica de Minas Gerais </a><img src="https://media.giphy.com/media/qCO12lyzGeOBWaEfRq/giphy.gif?cid=790b7611a1lh98agn8vmlmyjgaxrrs4o8cgsirnyr7cogirw&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"> </em>
   </br>
-  And working as a
-  <em>Developer intern at <a href="https://enx.net.br/">Enx Services </a><img src="https://media.giphy.com/media/3R8YiR6xPg6MMVDt0h/giphy.gif?cid=790b7611glu9rgf0xv45j3t4me3qk6qn6mjep4w5498d6pt3&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"> </em>
-   
 </p>
 
 <h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3V4M2t0ODRiMjlqMmxsdHQzOXdjcWQ1NG0xOHJqZGRraGlheWI2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/HeSfycr1Z0tmuHDGho/giphy.gif" width="50"> How to reach me: </h2>
