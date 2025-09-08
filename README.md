@@ -27,18 +27,23 @@
 <h2> <img src="https://media.giphy.com/media/9f8mk4P3X2Nvch1z2o/giphy.gif?cid=790b7611ec8dd1p1mvznz2dot07kqrggczovxbbuuxacymh6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> GitHub Stats </h2>
 
 <h3>🔥 Streak Stats 🔥</h3>
-<p>
-  <a href="https://github.com/camilamlopes">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilamlopes&theme=dracula&hide_border=true" />
-  </a>
-</p>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/camilamlopes">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=camilamlopes&theme=dracula&hide_border=true" />
+    </a>
+  </p>
+</div>
 
 <h3>💻 GitHub Profile Stats 💻</h3>
 
-<a href="https://github.com/camilamlopes">
-  <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=camilamlopes&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
-<a href="https://github.com/camilamlopes">
-  <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=camilamlopes&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-</a>
+<div align="center">
+  <a href="https://github.com/camilamlopes">
+    <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=camilamlopes&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>
+  <a href="https://github.com/camilamlopes">
+    <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=camilamlopes&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </a>
+</div>
 <br/>
