@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 
-    Hello hello! I'm Camila 
+    Hey hey! I'm Camila 
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQ3a2tvcWJoeDVjdnBqNDg5ejJrNnBoZjVkdXA5YTFwbW44Z294ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kH21cnlNQ9NeLTpEih/giphy.gif" width="60"> 
   </h1>
 </div>
@@ -19,10 +19,24 @@
   <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="50"> 
   My favorite tools: 
 </h2>
-<p align="center">
 
+<h3>
+  💻
+  Programming and Markup Languages
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=Python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C-659AD2?style=for-the-badge&logo=C&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=Go&logoColor=FFFFFF"/>
 </p>
 
+<h3>
+  🗄️
+  Databases and Cloud Hosting
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Notion-454B4E?style=for-the-badge&logo=Notion&logoColor=FFFFFF" />
+</p>
 
 <h2> <img src="https://media.giphy.com/media/9f8mk4P3X2Nvch1z2o/giphy.gif?cid=790b7611ec8dd1p1mvznz2dot07kqrggczovxbbuuxacymh6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> GitHub Stats </h2>
 
